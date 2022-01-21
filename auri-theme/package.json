@@ -4,7 +4,7 @@
     "description": "vscode theme color custom",
     "version": "0.0.1",
     "publisher": "AurinoGeraldo",
-    "icon": "./assets/draven.png"
+    "icon": "assets/draven.png",
     "engines": {
         "vscode": "^1.63.0"
     },
