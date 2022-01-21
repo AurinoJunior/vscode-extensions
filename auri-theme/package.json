@@ -1,0 +1,23 @@
+{
+    "name": "auri-theme",
+    "displayName": "auri-theme",
+    "description": "vscode theme color custom",
+    "version": "0.0.1",
+    "publisher": "AurinoGeraldo",
+    "icon": "./assets/draven.png"
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "auri-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/auri-theme-color-theme.json"
+            }
+        ]
+    }
+}
