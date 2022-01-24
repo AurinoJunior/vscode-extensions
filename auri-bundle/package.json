@@ -7,7 +7,7 @@
   "repository": {
     "url": "https://github.com/AurinoJunior/vscode-extensions/tree/main/auri-bundle"
   },
-  "version": "1.0.0",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.63.0"
   },

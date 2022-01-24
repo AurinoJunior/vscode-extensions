@@ -25,3 +25,7 @@ Conjunto de plugins do VS Code utilizado no meu dia a dia de trabalho e projetos
 ## Tem alguma extensão que gostaria e não tem?
 
 Basta abrir um PR com a extensão e ficarei feliz em analisar =)
+
+## Referência 
+
+Tutotial do monstro [Willian Justen](https://willianjusten.com.br/como-criar-e-publicar-um-pacote-de-extensoes-do-vscode)
