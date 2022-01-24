@@ -1,15 +1,32 @@
 {
-    "name": "auri-bundle",
-    "displayName": "auri-bundle",
-    "description": "A collection of extension that we use at development.",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.63.0"
-    },
-    "categories": [
-        "Extension Packs"
-    ],
-    "extensionPack": [ 
-        "publisher.extensionName"
-    ]
+  "name": "auri-bundle",
+  "displayName": "auri-bundle",
+  "description": "A collection of extension that we use at development.",
+  "publisher": "AurinoGeraldo",
+  "icon": "assets/draven.png",
+  "repository": {
+    "url": "https://github.com/AurinoJunior/vscode-extensions/tree/main/auri-bundle"
+  },
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.63.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "publisher.extensionName",
+    "aurinogeraldo.auri-theme",
+    "editorconfig.editorconfig",
+    "digitalbrainstem.javascript-ejs-support",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "ms-vsliveshare.vsliveshare",
+    "ritwickdey.liveserver",
+    "pkief.material-icon-theme",
+    "esbenp.prettier-vscode",
+    "syler.sass-indented",
+    "stylelint.vscode-stylelint",
+    "ms-vscode.vscode-typescript-tslint-plugin"
+  ]
 }

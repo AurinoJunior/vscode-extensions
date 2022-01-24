@@ -1,16 +1,27 @@
-# README
+# React Avançado Extension Pack
 
-## This is the README for your extension pack "auri-bundle"
+Conjunto de plugins do VS Code utilizado no meu dia a dia de trabalho e projetos pessoais.
 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## Extensões incluídas
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+- `auri-theme` Meu tema customizado para vscode (tá bonitão em).
+- `editorconfig` Plugin que formata o codigo com alguns padrões bem uteis.
+- `EJs language support` Suporte para templates ejs.
+- `Eslint` Plugin de linter.
+- `Git Lens` Facilita ver quem editou a ultima vez determinada linha de codigo.
+- `Live share e server` Compartilhamento de codigo em tempo real.
+- `Prettier` Formatador de codigo.
+- `Material icon theme` Tema do vscode para icons.
+- `Sass` Suporte para pré processador sass css.
+- `Stylelint` Linter para css.
+- `TSLint` Linter para typescript.
 
-## For more information
+## Novos extensões
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- Adicione a extensão desejada no `package.json` do repositorio na chave `extensionPack`
+- Troque a versão no arquivo `package.json`
+- Rode `vsce publish` com as credenciais corretas.
 
-**Enjoy!**
+## Tem alguma extensão que gostaria e não tem?
+
+Basta abrir um PR com a extensão e ficarei feliz em analisar =)
