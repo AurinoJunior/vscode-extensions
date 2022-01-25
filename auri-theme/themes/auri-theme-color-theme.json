@@ -204,6 +204,15 @@
       }
     },
     {
+			"name": "JSX Component",
+			"scope": [
+				"support.class.component"
+			],
+			"settings": {
+				"foreground": "#87ff93"
+			}
+		},
+    {
       "name": "java type",
       "scope": [
         "storage.type.annotation.java",
