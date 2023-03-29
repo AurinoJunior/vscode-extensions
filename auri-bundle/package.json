@@ -7,7 +7,7 @@
   "repository": {
     "url": "https://github.com/AurinoJunior/vscode-extensions/tree/main/auri-bundle"
   },
-  "version": "1.2.0",
+  "version": "2.0.0",
   "engines": {
     "vscode": "^1.63.0"
   },
@@ -17,17 +17,20 @@
   "extensionPack": [
     "publisher.extensionName",
     "aurinogeraldo.auri-theme",
+    "formulahendry.auto-rename-tag",
+    "mikestead.dotenv",
     "editorconfig.editorconfig",
-    "digitalbrainstem.javascript-ejs-support",
     "dbaeumer.vscode-eslint",
     "eamodio.gitlens",
-    "ms-vsliveshare.vsliveshare",
     "ritwickdey.liveserver",
+    "ms-vsliveshare.vsliveshare",
     "pkief.material-icon-theme",
     "esbenp.prettier-vscode",
+    "Prisma.prisma",
     "syler.sass-indented",
     "stylelint.vscode-stylelint",
-    "ms-vscode.vscode-typescript-tslint-plugin",
+    "wayou.vscode-todo-highlight",
+    "ChakrounAnas.turbo-console-log",
     "styled-components.vscode-styled-components"
   ]
 }
