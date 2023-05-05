@@ -2,7 +2,7 @@
     "name": "auri-theme",
     "displayName": "auri-theme",
     "description": "vscode theme color custom",
-    "version": "1.3.0",
+    "version": "2.0.0",
     "publisher": "AurinoGeraldo",
     "repository": {
         "url": "https://github.com/AurinoJunior/vscode-extensions/tree/main/auri-theme"
@@ -17,9 +17,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "auri-theme",
+                "label": "Default",
                 "uiTheme": "vs-dark",
                 "path": "./themes/auri-theme-color-theme.json"
+            },
+            {
+                "label": "Deep Ocean",
+                "uiTheme": "vs-dark",
+                "path": "./themes/deep-ocean-color-theme.json"
             }
         ]
     }
