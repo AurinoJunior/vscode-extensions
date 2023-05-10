@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## 3.1.1
+
+- Bugfix color selection.background
+
+## 3.1.0
+
+- Change color secondary Hacker theme
+
 ## 3.0.0
 
 - New theme hacker mode
