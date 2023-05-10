@@ -1,9 +1,18 @@
-# Change Log
+# CHANGELOG
 
-All notable changes to the "auri-theme" extension will be documented in this file.
+## 3.0.0
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- New theme hacker mode
+- Change color secondary Deep Ocean
 
-## [Unreleased]
+## 2.0.1
+
+- Fix path for default theme
+
+## 2.0.0
+
+- New theme Deep ocean
+
+## 1.0.0
 
 - Initial release
