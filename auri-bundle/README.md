@@ -15,9 +15,6 @@ Conjunto de plugins do VS Code utilizado no meu dia a dia de trabalho e projetos
 - `Prettier` Formatador de codigo.
 - `Prisma` Adiciona syntax highlitghting e auto formatação de codigo.
 - `Sass` Suporte para pré processador sass css.
-- `Stylelint` Linter para css.
-- `TODO Highlight` Adiciona TODOs no código como lembrete em formato de comentários.
-- `Turbo Console Log` Gera console log de uma forma automatica.
 - `Vscode styled components` Syntax highlitghting para styled components.
 
 ## Novos extensões
