@@ -7,7 +7,7 @@
   "repository": {
     "url": "https://github.com/AurinoJunior/vscode-extensions/tree/main/auri-bundle"
   },
-  "version": "2.2.0",
+  "version": "2.3.0",
   "engines": {
     "vscode": "^1.63.0"
   },
@@ -18,7 +18,6 @@
     "publisher.extensionName",
     "aurinogeraldo.auri-theme",
     "formulahendry.auto-rename-tag",
-    "be5invis.vscode-custom-css",
     "mikestead.dotenv",
     "editorconfig.editorconfig",
     "dbaeumer.vscode-eslint",
