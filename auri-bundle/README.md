@@ -12,9 +12,11 @@ Conjunto de plugins do VS Code utilizado no meu dia a dia de trabalho e projetos
 - `Git Lens` Facilita ver quem editou a ultima vez determinada linha de codigo.
 - `Live share e server` Compartilhamento de codigo em tempo real.
 - `Material icon theme` Tema do vscode para icons.
+- `postcss` Suporte para plugins de postcss.
 - `Prettier` Formatador de codigo.
 - `Prisma` Adiciona syntax highlitghting e auto formatação de codigo.
 - `Sass` Suporte para pré processador sass css.
+- `Tailwindcss` Suporte para tailwind syntax.
 - `Vscode styled components` Syntax highlitghting para styled components.
 
 ## Novos extensões
