@@ -2,6 +2,11 @@
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [2.4.0] - 2024-01-13
+
+- Adicionando novo plugin APC, para personalizar o electron do vscode
+- Removendo auri-theme
+
 ## [2.3.0] - 2023-10-31
 
 - Removendo extensão de css customizavel para vscode
