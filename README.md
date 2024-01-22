@@ -1,6 +1,6 @@
 ## Extenções do vscode
 
-Repositório para codificação de plugins para vscode,
+Repositório para codificação de plugins para vscode, todos esses plugins estão publicados no marketplace e podem ser encontrados na aba de extensions.
 
 ### auri-bundle
 
